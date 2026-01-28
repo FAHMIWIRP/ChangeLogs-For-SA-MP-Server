@@ -1,0 +1,42 @@
+body {
+  background: linear-gradient(135deg, #e9eef5, #f8fafc);
+  font-family: Arial, sans-serif;
+  color: #1e293b;
+}
+
+.modern-card {
+  border: none;
+  border-radius: 14px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.06);
+}
+
+.btn-modern {
+  background: #3b82f6;
+  color: white;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.btn-modern:hover {
+  background: #2563eb;
+}
+
+.search-box {
+  border-radius: 10px;
+}
+
+.modern-table thead {
+  background: #0f172a;
+  color: white;
+}
+
+.modern-table tbody tr:hover {
+  background: #f1f5f9;
+  transition: 0.2s;
+}
+
+/* Warna teks detail */
+.update { color: #16a34a; font-weight: 600; }
+.fixbug { color: #f59e0b; font-weight: 600; }
+.hapus { color: #dc2626; font-weight: 600; }
+.perbaikan { color: #2563eb; font-weight: 600; }
